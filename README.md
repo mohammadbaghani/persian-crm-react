@@ -9,9 +9,9 @@
 فولدر components
 ساخته شود
 و فایل icons را در فولدر components قراردهید
-در فولدر src فایلهای: PersianDatePicker .js , index.js , index.css , App.js , App.css
+در فولدر src فایلهای: PersianDatePicker.js , index.js , index.css , App.js , App.css
 قرار گیرند
 <br><br/>
 در فولدر public هم فایل index.html , فایل e.png
-قرار میگیرند
+قرار گیرند
 
