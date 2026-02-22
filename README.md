@@ -5,7 +5,7 @@
 ابتدا باید فولدرهای src , public
 ساخته شوند
 <br><br/>
-درون فولدر src
+در فولدر src
 فولدر components
 ساخته شود
 و فایل icons را در فولدر components قراردهید
