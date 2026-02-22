@@ -9,6 +9,7 @@
 فولدر components
 باید ساخته شود
 و فایل icons را در فولدر components قراردهید
+<br><br/>
 در فولدر public هم فایل index.html , فایل e.png
 قرار میگیرند
 
