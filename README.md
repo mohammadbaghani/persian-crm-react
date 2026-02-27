@@ -17,5 +17,5 @@
 در فولدر public هم فایل index.html , فایل e.png
 قرار گیرند
 <br><br/>
-https://baghani-crm.liara.run لینک پروژه
+لینک پروژه https://baghani-crm.liara.run
 
